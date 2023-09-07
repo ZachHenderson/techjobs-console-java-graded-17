@@ -103,15 +103,9 @@ public class JobData {
                             jobs.add(row);
                         }
                     }
-                    // *working code to find search term*
-//                    if (aValue.contains(value)){
-//                        jobs.add(row);
-//                    }
                 }
         }
         return jobs;
-        // TODO - implement this method
-//        return null;
     }
 
     /**
